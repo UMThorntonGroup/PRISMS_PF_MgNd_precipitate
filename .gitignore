@@ -93,3 +93,11 @@ restart.mesh.old
 restart.resume.z
 restart.time.info
 restart.time.info.old
+build/
+*.o
+*.out
+*.log
+*.vtu
+*.pvd
+*.h5
+.vscode/
